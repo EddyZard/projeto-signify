@@ -1,4 +1,4 @@
-# projeto-xavier
+# projeto-signify
 DevContainer do Projeto Integrador VI
 
 Os Integrantes desse grupo são:
